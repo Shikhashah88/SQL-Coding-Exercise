@@ -9,4 +9,4 @@ Insert into Fruits Values (8,'Bluebbery', 'Berry', 25, 3.50, 4.9, 'Green Supply'
 Insert into Fruits Values (9, 'Watermelon', 'Melon', 15, 5.00, 4.5, 'Tropical Foods', DATE '2026-01-09');
 Insert into Fruits Values (10, 'Peach', 'Stone Fruit', 45, 2.00, 4.1, 'Fresh Farms', DATE '2026-01-10');
 Insert into Fruits Values (11, 'Pear', 'Fresh', 55, 1.75, 4.0, 'Green Supply', DATE '2026-01-11');
-Insert into fruits Values (12, 'Kiwi', 'Tropical', 28, 1.25, 4.4. 'Tropical Foods' DATE '2026-01-12');
+Insert into fruits Values (12, 'Kiwi', 'Tropical', 28, 1.25, 4.4, 'Tropical Foods', DATE '2026-01-12');
