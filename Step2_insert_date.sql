@@ -1,0 +1,12 @@
+Insert into Fruits Values (1,'Apple', 'Fresh', 50, 1.25, 4.5, 'Fresh Farms', DATE '2026-01-01');
+Insert into Fruits Values (2, 'Banana', 'Fresh', 80, 0.75, 4.2, 'Green Supply', DATE '2026-01-02');
+Insert into Fruits Values (3, 'Orange', 'Citrus', 60, 1.50, 4.4, 'Fresh Farms', DATE '2026-01-03');
+Insert into Fruits Values (4, 'Mango', 'Tropical', 30, 2.50, 4.8, 'Tropical Foods', DATE '2026-01-04');
+Insert into Fruits VAlues (5, 'Grapes', 'Fresh', 40, 3.00, 4.3, 'Green Supply', DATE '2026-01-05');
+Insert into Fruits Values (6, 'Pineapple', 'Tropical' , 20, 4.00, 4.6, 'Tropical Foods', DATE '2026-01-06');
+Insert into Fruits Values (7,'Strawberry', 'Berry', 35, 2.75, 4.7, 'Fresh Farms', DATE '2026-01-07');
+Insert into Fruits Values (8,'Bluebbery', 'Berry', 25, 3.50, 4.9, 'Green Supply', DATE '2026-01-08');
+Insert into Fruits Values (9, 'Watermelon', 'Melon', 15, 5.00, 4.5, 'Tropical Foods', DATE '2026-01-09');
+Insert into Fruits Values (10, 'Peach', 'Stone Fruit', 45, 2.00, 4.1, 'Fresh Farms', DATE '2026-01-10');
+Insert into Fruits Values (11, 'Pear', 'Fresh', 55, 1.75, 4.0, 'Green Supply', DATE '2026-01-11');
+Insert into fruits Values (12, 'Kiwi', 'Tropical', 28, 1.25, 4.4. 'Tropical Foods' DATE '2026-01-12');
