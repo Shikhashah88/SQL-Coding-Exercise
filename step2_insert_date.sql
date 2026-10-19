@@ -1,3 +1,12 @@
+/*
+This query inserts 12 fruit records into the Fruits table.
+Each INSERT INTO statement adds one row of data.
+The values represent the fruit ID, name, category, quantity,
+price, rating, supplier, and date added.
+Text values are enclosed in single quotes, and DATE specifies
+the date in YYYY-MM-DD format.
+*/
+
 Insert into Fruits Values (1,'Apple', 'Fresh', 50, 1.25, 4.5, 'Fresh Farms', DATE '2026-01-01');
 Insert into Fruits Values (2, 'Banana', 'Fresh', 80, 0.75, 4.2, 'Green Supply', DATE '2026-01-02');
 Insert into Fruits Values (3, 'Orange', 'Citrus', 60, 1.50, 4.4, 'Fresh Farms', DATE '2026-01-03');
